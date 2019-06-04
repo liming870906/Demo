@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         layout = (DrawerLayout) this.findViewById(R.id.layout);
         fLayout = (FrameLayout) this.findViewById(R.id.flayout);
 //        tool.setLogo(R.mipmap.ic_launcher);
+//        tool.setLogo(R.mipmap.ic_launcher);
         tool.setTitle("ToolBar");
         tool.setNavigationIcon(android.R.drawable.dialog_holo_light_frame);
         setSupportActionBar(tool);
@@ -43,14 +44,10 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-        //111122222
-        //1111
-        //1111
-        //1111
-        //1111
-        //1111
-        //1111
-
+        //111122
+        //添加测试数据Git测试
+        //有添加了一行已经缓存的文件
+        //有添加了一
     }
 
     @Override
