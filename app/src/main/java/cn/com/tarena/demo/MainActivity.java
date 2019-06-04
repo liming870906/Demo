@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 //        tool.setLogo(R.mipmap.ic_launcher);
 //        tool.setLogo(R.mipmap.ic_launcher);
 //        tool.setLogo(R.mipmap.ic_launcher);
-//        tool.setLogo(R.mipmap.ic_launcher);
         tool.setTitle("ToolBar");
         tool.setNavigationIcon(android.R.drawable.dialog_holo_light_frame);
         setSupportActionBar(tool);
