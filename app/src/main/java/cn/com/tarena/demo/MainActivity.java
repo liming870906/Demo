@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         fLayout = (FrameLayout) this.findViewById(R.id.flayout);
 //        tool.setLogo(R.mipmap.ic_launcher);
 //        tool.setLogo(R.mipmap.ic_launcher);
+//        tool.setLogo(R.mipmap.ic_launcher);
+//        tool.setLogo(R.mipmap.ic_launcher);
         tool.setTitle("ToolBar");
         tool.setNavigationIcon(android.R.drawable.dialog_holo_light_frame);
         setSupportActionBar(tool);
